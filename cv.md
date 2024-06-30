@@ -7,8 +7,11 @@
 
 ## About me
 
-* I want to gain practical JavaScript skills
-* I want to gain experience in group development of projects.
+I am 31 years old, I graduated as a programmer technician, worked for a long time as a system administrator, but I always wanted to start programming, now I try to devote as much time as possible to this, I liked JS, I expect positive results from myself!
+
+- **I want to gain practical JavaScript skills**
+- **I want to gain practical JavaScript skills**
+
 
 ## Skills
 
