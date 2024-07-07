@@ -1,3 +1,2 @@
-# rsschool-cv
-## https://Dobr228.github.io/rsschool-cv/cv
-### https://Dobr228.github.io/rsschool-cv/
+ -  https://Dobr228.github.io/rsschool-cv/cv
+ -  https://dobr228.github.io/rsschool-cv/
