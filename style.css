@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap");
+
+body {
+  font-family: "Wittgenstein", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: #bbbbbb;
+  display: flex;
+  color: #000000;
+}
+
+
+nav {
+  background-color: #cb91f1; /* Сделал заливку */
+}
+
+nav ul {
+  list-style-type: none; /* Убрал маркеры списка */
+  display: flex; /* сделал текст по центру */
+  justify-content: center; /* сделал текст по центру */
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline; /* сделал список в ряд */
+  margin-right: 20px; /* Добавил отступ */
+}
+
+nav a {
+  text-decoration: none; /* Убрал подчеркивание текста */
+  color: #ffffff; /* Цвет текста */
+}
+
+nav a:hover {
+  text-decoration: underline; /* Добавил подчеркивание при наведении */
+}
+
+.content {
+background-color: #ffffff;
+} 
+
+h1,
+h2
+ {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h3 {
+  font-weight: 600;
+  color: #000;
+  border-bottom: 1px #000 solid;
+  padding: 0px;
+  margin: 0px;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+p {
+  text-align: justify;
+}
+
+
+.block {
+  padding: 16px;
+}
+
+
+.wrapper {
+  width: 1024px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+
+.content {
+  display: flex;
+}
+
+
+.left {
+  width: 40%;
+}
+
+.MyPhoto {
+  border-radius: 50%; /* Делает изображение круглым */
+  width: 200px; /* Ширина изображения */
+  height: 200px; /* Высота изображения */
+}
+
+.info ul {
+  list-style-type: none; /* Убирает маркеры списка */
+}
+
+
+.ImageCont { /* Измкенbk размер и выравнял картинку/текст */
+  width: 15px;
+  height: 15px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.big { /* Измкенbk размер и выравнял картинку/текст */
+  width: 16px;
+  height: 15px;
+}
+
+
+
+.right {
+  flex: 1;
+}
+
+
+.stats {
+  max-height: 150px;
+}
+
+
+.ImageBlock {
+  display: flex;
+  align-items: center;
+}
+
+.ImageBlock h3 {
+  flex: 20;
+}
+
+.ImageBlock img { /* Задал размер картинки в блоке */
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+
+.myselfBlock { /* сдвигает текст блокав в право */
+  padding-left: 28px;
+}
+
+
+header {
+  text-align: center;
+}
+
+
+.photoWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
+.Link { /* сдвинул ссылку в право */
+  padding-left: 28px;
+  font-size: 20px; /* Устанавил размер шрифта текста */
+}
+
+
+.end-footer {
+  display: flex;
+  background-color: #cb91f1;
+  color: white;
+  justify-content: space-between;
+  align-items: center; /* Выравнивание по вертикали */
+}
+
+
+.end-footer img {
+     width: 100px; 
+    height: auto;
+}
+
+
+.black-footer p {
+    margin: 24px;
+}
